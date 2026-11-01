@@ -1,0 +1,18 @@
+{
+ "parts": {
+  "10-laws-01.json": {
+   "acts": [
+    "nagis-amendment-law-2020",
+    "nagis-law-2017"
+   ],
+   "sha256": "0f4319e004e672b4e0108576ea966db5167470f7ae799106f6dcfb7798e03a37"
+  },
+  "20-laws-02.json": {
+   "acts": [
+    "nida-law-2021"
+   ],
+   "sha256": "a72cf2add895f0bdbe21bf256bae45bb64ed7f8f1cfc657088f1a2f69078dc99"
+  }
+ },
+ "schema": 1
+}

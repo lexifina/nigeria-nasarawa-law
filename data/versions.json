@@ -1,0 +1,47 @@
+{
+ "country": "NG-NA",
+ "acts": [
+  {
+   "slug": "nagis-law-2017",
+   "short": "NAGIS Law 2017",
+   "title": "Nasarawa Geographic Information Service (NAGIS) Law, 2017 (Legal Notice No. 83 of 2017)",
+   "url": "https://nasarawastate.gov.ng/wp-content/uploads/2023/03/Gazette_NAGIS-Law-2017.pdf",
+   "versions": [
+    {
+     "from": "2017-05-21",
+     "units": 27,
+     "source_url": "https://nasarawastate.gov.ng/wp-content/uploads/2023/03/Gazette_NAGIS-Law-2017.pdf",
+     "sha256": "6307c73771c869e69a28d676860fee22c51035328fc8e9cf87bb9409064a7b34"
+    }
+   ]
+  },
+  {
+   "slug": "nagis-amendment-law-2020",
+   "short": "NAGIS (Amendment) Law 2020",
+   "title": "Nasarawa Geographic Information Service (Amendment) Law, 2020 (Legal Notice No. 20 of 2020)",
+   "url": "https://nasarawastate.gov.ng/wp-content/uploads/2023/03/Gazette_Amended-NAGIS-Law-2020.pdf",
+   "versions": [
+    {
+     "from": "2020-05-21",
+     "units": 8,
+     "source_url": "https://nasarawastate.gov.ng/wp-content/uploads/2023/03/Gazette_Amended-NAGIS-Law-2020.pdf",
+     "sha256": "1ecebff6bce96de21387731b97b3d962d0eb22590f3b1df49279302070bdc4dc"
+    }
+   ]
+  },
+  {
+   "slug": "nida-law-2021",
+   "short": "NIDA Law 2021",
+   "title": "Nasarawa State Investment and Development Agency Law (Legal Notice No. 3 of 2021)",
+   "url": "https://nasarawastate.gov.ng/wp-content/uploads/2023/03/Gazette-_Nasarawa-Investment-and-Development-Agency-Law-2021.pdf",
+   "versions": [
+    {
+     "from": "2020-10-15",
+     "units": 30,
+     "source_url": "https://nasarawastate.gov.ng/wp-content/uploads/2023/03/Gazette-_Nasarawa-Investment-and-Development-Agency-Law-2021.pdf",
+     "sha256": "a1f86e0c50bfef07a94fd0a2d131c5fd533ff6d4b6328eaea09ee13225299c4c"
+    }
+   ]
+  }
+ ]
+}
